@@ -56,7 +56,7 @@ django-crud-project/
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.x installed on your system
+- Python 3.12.2 installed on your system
 - pip (Python package installer)
 
 ### Setup Instructions
