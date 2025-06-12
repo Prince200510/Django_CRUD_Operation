@@ -25,7 +25,7 @@ A simple yet powerful Django REST API project demonstrating full CRUD (Create, R
 
 ## 🛠 Technologies Used
 
-- **Python 3.x**
+- **Python 3.12.2**
 - **Django** - High-level Python web framework
 - **Django REST Framework** - Powerful toolkit for building Web APIs
 - **SQLite** - Default database (can be configured for other databases)
