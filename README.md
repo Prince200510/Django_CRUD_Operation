@@ -36,16 +36,15 @@ A simple yet powerful Django REST API project demonstrating full CRUD (Create, R
 django-crud-project/
 │
 ├── manage.py
-├── requirements.txt
 ├── README.md
 │
-├── project_name/
+├── CRUD/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
 │
-└── app_name/
+└── api/
     ├── __init__.py
     ├── models.py
     ├── serializer.py
@@ -64,8 +63,8 @@ django-crud-project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Prince200510/django-crud-operations.git
-   cd django-crud-operations
+   git clone https://github.com/Prince200510/Django_CRUD_Operation.git
+   cd Django_CRUD_Operation
    ```
 
 2. **Create a virtual environment**
