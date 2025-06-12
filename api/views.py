@@ -7,7 +7,7 @@ from .serializer import UserSerializers
 
 # @api_view(['GET'])
 # def get_user(request):
-#     return Response(UserSerializers({'name' : 'Prince Maurya', 'age' : 18}).data)
+#     return Response(UserSerializers({'name' : 'Prince Maurya', 'age' : 20}).data)
 
 @api_view(['GET'])
 def get_user(request):
