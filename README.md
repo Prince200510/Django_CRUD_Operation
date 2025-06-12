@@ -110,19 +110,19 @@ The API provides the same functionality through different implementation approac
 ### Class-Based Views (APIView)
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `GET` | `/api/users-cbv/` | Retrieve all users using APIView |
-| `GET` | `/api/users-cbv/{id}/` | Retrieve a specific user |
-| `PUT` | `/api/users-cbv/{id}/` | Update a specific user |
-| `DELETE` | `/api/users-cbv/{id}/` | Delete a specific user |
+| `GET` | `/api/users/` | Retrieve all users using APIView |
+| `GET` | `/api/users/{id}/` | Retrieve a specific user |
+| `PUT` | `/api/users/{id}/` | Update a specific user |
+| `DELETE` | `/api/users/{id}/` | Delete a specific user |
 
 ### Generic Views
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `GET` | `/api/users-generic/` | List all users |
-| `POST` | `/api/users-generic/` | Create a new user |
-| `GET` | `/api/users-generic/{id}/` | Retrieve a specific user |
-| `PUT` | `/api/users-generic/{id}/` | Update a specific user |
-| `DELETE` | `/api/users-generic/{id}/` | Delete a specific user |
+| `GET` | `/api/users/` | List all users |
+| `POST` | `/api/users/` | Create a new user |
+| `GET` | `/api/users/{id}/` | Retrieve a specific user |
+| `PUT` | `/api/users/{id}/` | Update a specific user |
+| `DELETE` | `/api/users/{id}/` | Delete a specific user |
 
 ## 💡 Usage Examples
 
